@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1792165856,
+	"version": 1792696934,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -42,6 +42,8 @@
 		"images/power_spike-sheet0.png",
 		"images/mobile_button-sheet0.png",
 		"images/p_fire.png",
+		"images/selectbox-sheet0.png",
+		"images/selectbox-sheet1.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
